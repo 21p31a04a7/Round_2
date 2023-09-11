@@ -1,0 +1,25 @@
+body {
+            font-family: cursive;, sans-serif;
+            text-align: center;
+        }
+        .choice-buttons {
+            margin-top: 20px;
+        }
+        .choice-buttons button {
+            margin: 5px;
+        }
+        .result {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        .scoreboard {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        img{
+            height: 300px;
+            width: 300px
+        }
+    
